@@ -4,4 +4,4 @@
 
 1) Make sure to commit your changes properly
 2) Check whether your code works before committing
-3) Place the right code in the right folders (i.e html in the "html" folder)
+3) Place the right code in the right folders (i.e html in the "html" folder or css in the "css" folder)
