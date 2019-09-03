@@ -1,4 +1,7 @@
+# TurbΩ V8 Website Source Code
 
-# This is the source code for team #14259 TurbΩ V8's website.
+## For anyone working on the website:
 
-# For Anyone who works on this website, make sure to commit your changes before logging out
+1) Make sure to commit your changes properly
+2) Check whether your code works before committing
+3) Place the right code in the right folders (i.e html in the "html" folder)
