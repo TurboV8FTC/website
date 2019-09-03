@@ -1,4 +1,4 @@
-# _Team #14259 TurbΩ V8 Website Source Code_
+# Team #14259 TurbΩ V8 Website Source Code
 
 ## About
 
