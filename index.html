@@ -41,7 +41,8 @@
                   For the 2019 - 2020 season, we have accepted several new interns as well!
                </p>
             </div>
-            <div class="map">
+            <button onclick="toggleMapVisibility()">Where are We?</button>
+            <div id="map">
                <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d104089.61484949396!2d-121.82196640737175!3d37.72611381987073!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sus!4v1568500887599!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" alt="Image"></iframe>
                <p>
                   Most of our members are from San Ramon. However, we also have two interns from the Bay Area.
@@ -67,6 +68,19 @@
             </div>
       </header>
     </body>
+    <script type="text/javascript">
+        
+        toggleMapVisibility("map");
+        
+        function toggleMapVisibility() {
+            var x = document.getElementById("map");
+            if (x.style.display === "none") {
+                x.style.display = "block";
+            } else {
+                x.style.display = "none";
+            }
+        }
+    </script>
 </html>
 
 
