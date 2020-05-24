@@ -197,3 +197,8 @@ align-self: center;
 		clip: auto !important;
 	}
 }
+
+.button {
+    border: 0;
+    color: red;
+}
